@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Cambiando al directorio home..." && cd $HOME && echo "Directorio actual: $(pwd)"
+cd $HOME && echo "Directorio actual: (pwd)"

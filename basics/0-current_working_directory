@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n\n" "$(pwd)"
+printf "%s\n" "$(pwd)"

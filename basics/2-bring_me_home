@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" "(cd /home)"
+printf "%s\n" "(cd $home)"

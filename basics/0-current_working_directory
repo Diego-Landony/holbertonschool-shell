@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n\n" "$(pwd)"
+echo "./0-current_working_directory" && echo "/basics"

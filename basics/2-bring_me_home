@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "There is no place like home" && cd /home
+cd 

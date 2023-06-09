@@ -1,2 +1,2 @@
 #!/bin/bash
-cd $HOME && echo "Directorio actual: (pwd)"
+echo "There is no place like home" && cd /home

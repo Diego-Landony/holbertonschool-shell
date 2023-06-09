@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" "(/root)"
+echo "Cambiando al directorio home..." && cd $HOME && echo "Directorio actual: $(pwd)"

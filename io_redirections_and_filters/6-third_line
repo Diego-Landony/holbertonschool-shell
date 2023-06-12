@@ -1,2 +1,2 @@
 #!/bin/bash
-line=$(tail -n +3 iacta | head -n 1)echo $linea
+head -3  iacta| tail -1
